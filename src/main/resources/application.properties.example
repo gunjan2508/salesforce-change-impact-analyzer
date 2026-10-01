@@ -1,0 +1,4 @@
+salesforce.client-id=YOUR_CLIENT_ID_HERE
+salesforce.client-secret=YOUR_CLIENT_SECRET_HERE
+salesforce.login-url=https://your-domain.my.salesforce.com
+server.port=8081
